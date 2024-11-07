@@ -131,7 +131,7 @@ aside{
     margin-left: 20px;
 }
 
-.sticky-items{
+.sticky-items{/* スクロール時の追従用アイテム */
     margin-bottom: 50px;
     position: sticky;
     top: 250px;
